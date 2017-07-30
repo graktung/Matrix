@@ -2,7 +2,7 @@ class Matrix:
 	'''
 	CREATE MATRIX
 	- To create a Matrix
-		matrix = Matrix([values in row No.1], [values in row No.2])
+		matrix = Matrix([values in row No.1], [values in row No.2], .., [values in row No.n])
 	Note:
 		- Rows must be list
 		- Not require the same width of the rows,
