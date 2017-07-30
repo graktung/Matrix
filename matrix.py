@@ -11,6 +11,7 @@ class Matrix:
 		matrix = Matrix([])
 	GET VALUE MATRIX
 		matrix[rows, column]
+		also support slicing
 	'''
 	def __init__(self, *matrix):
 		self.matrix = []
